@@ -18,6 +18,9 @@ Project Advisor: Harrison Smith
 
 This project was requested by and developed for Nomad Alliance in order to help those in need of temporary and eventually long term housing to find nearby locations that they can "Nab a Bed" from.
 
+Nomad Alliance Repos:
+https://github.com/Nomad-Alliance/NeedABed/blob/main/README.md
+
 
 _________________________________________________________________________________________________________________________________________________
 
